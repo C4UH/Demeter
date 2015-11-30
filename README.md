@@ -6,3 +6,6 @@ https://github.com/hortonworks
 
 Data ingestion is accelerated with focused used of Mirth open source tool editions:
 https://www.mirthcorp.com/community/fisheye/browse/Mirth 
+
+Runs well on appropriate cloud services. Runs great in virtual data centers with VMware vSphere Big Data Extensions:
+http://www.vmware.com/products/big-data-extensions 
