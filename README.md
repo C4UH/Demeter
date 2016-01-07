@@ -2,7 +2,6 @@
 FOSS Platform enabling predictive analytics for complex health care organizations esp. Accountable Care Org's.
 
 The base big data package relies on distributions of Hadoop for support services:
-
 https://github.com/cloudera 
 https://github.com/hortonworks 
 
